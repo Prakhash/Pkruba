@@ -1,0 +1,10 @@
+web1:
+  php_extensions: [mcrypt, mysqli, mysql, mbstring]
+  name: prshooters
+  shared_writable_dirs:
+    - /uploads
+ 
+db1:
+  name: prshooters
+  type: mysql
+        

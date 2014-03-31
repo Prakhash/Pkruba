@@ -1,0 +1,86 @@
+/** Navigation **/
+#navigation {
+    display: inline-block;
+    list-style: none;
+    line-height: 100px;
+    margin: 0;
+    padding: 0;
+}
+#navigation ul {
+    display: inline-block;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+#navigation li {
+    float: left;
+    width: 160px;
+    text-align: center;
+}
+#navigation li a {
+    color: #818181;
+    font-size: 15px;
+    line-height: 30px;
+    text-decoration: none;
+}
+#navigation li a:hover {
+    color: #FFFFFF ;
+}
+#navigation li.active a {
+    color: #FFFFFF ;
+} 
+
+#logo{
+    float: right;
+}
+
+#menu{
+
+}
+#aboutcontent1{
+    text-align: center;
+    padding: 70px 200px;
+}
+
+#aboutcontent2{
+    text-align: left;
+    padding: 40px 400px;
+}
+
+#contactcontent1{
+    text-align: center;
+    padding: 70px 200px;
+}
+
+#contactcontent2{
+    text-align: left;
+    padding: 40px 445px;
+}
+
+#newContent{
+    text-align: left;
+    padding: 0px 0px;
+}
+
+#outdiv{
+    text-align: center;
+    padding: 16px 50px;
+    font-size: 20;
+    color: #ffffff;
+    font-style: italic;
+    font-weight: bold;
+
+}
+
+#newContent1{
+    padding: 1px 100px;
+    text-align: center;
+}
+
+#rulecontent1{
+    text-align: center;
+}
+
+#ruleContentIn{
+    text-align: center;
+}
